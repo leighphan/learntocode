@@ -110,14 +110,23 @@
 </footer>
 <script type="text/javascript">
 //tabbed panels
+//declare globals to hold all the links and all the panel elements
+  var tabLinks;
+  var tabPanels;
 
 window.onload=function() {
-	//set initial panel state
-	//listen for clicks on tabs
+  	//when the page loads grab the li elements
+    tabLinks =
+document.getElementById("tabs").getElementsByTagName("li");
+    //go into open document, find ids called 'tabs'.
+    //retrieve any elements w/ tag name 'li'
+    tabPanels =
+document.getElementsById("containers").getElementsbyTagName("div");
+
 }
 
 function displayPanel() {
-	//respond to tab clicks 
+	//respond to tab clicks
 	//change panel display and active tabs
 }
 

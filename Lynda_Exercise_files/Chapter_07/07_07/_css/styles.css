@@ -1,4 +1,5 @@
 html, body {
+	background: #663399; /*Beccapurple*/
 	margin: 0;
 }
 h1, h2, h3, h4, h5, h6, p {
@@ -9,12 +10,13 @@ h1, h2, h3, h4, h5, h6 {
 	color: rgb(107, 107, 132);
 }
 body {
+	font: 100% Verdana, Geneva, sans-serif;
 	width: 80%;
 	margin-right: auto;
 	margin-left: auto;
 	padding: 2.5% 2.5% 0;
-	background: white;
 	line-height: 1.8;
+
 }
 h1 {
 	font: 1.6em Verdana, Geneva, sans-serif;
@@ -38,7 +40,7 @@ a:hover {
 	color: rgb(120, 97, 55);
 }
 pre {
-	font-size: 1.4em;
+	font-size: 1em;
 	color: white;
 	padding: .5em 1em;
 	border-left: 1em solid #A68048;
@@ -102,8 +104,10 @@ blockquote {
 	font-style: italic;
 }
 .flowRight {
-	margin-left: 10px;
+	float: right;
+	margin-right: 10px;
 }
 .flowLeft {
-	margin-right: 10px;
+	float: left;
+	margin-left: 10px;
 }

@@ -120,32 +120,50 @@ window.onload=function() {
     tabLinks = document.getElementById("tabs").getElementsByTagName("li");
 	// Now get all the tab panel container divs
 	tabPanels = document.getElementById("containers").getElementsByTagName("div");
-	
+
 	// activate the _first_ one
     displayPanel(tabLinks[0]);
-   
+
     // attach event listener to links using onclick and onfocus, fire the displayPanel function, return false to disable the link
     for (var i = 0; i < tabLinks.length; i++) {
-        tabLinks[i].onclick = function() { 
-			displayPanel(this); 
-			return false;
-		}
-        tabLinks[i].onfocus = function() { 
-			displayPanel(this); 
-			return false;
-		}
+    // as long as i < number of tab links, list items, then take i and add 1 to it.
+          tabLinks[i].onclick = function() {
+        //for each of the tabLinks, attach an onclick event listener
+        //when clicked, run the function displayPanel
+        displayPanel(this);
+        //we're going to pass in argument 'this' which references obj that calls the function ('i').
+        //In this case we're referring to the tab that's clicked (1-3).
+        return false;
+      }
+          tabLinks[i].onfocus = function() {
+        displayPanel(this);
+        return false;
+    }
     }
 }
 
 function displayPanel(tabToActivate) {
-    // go through all the <li> elements
-    for (var i = 0; i < tabLinks.length; i++) {
-        if (tabLinks[i] == tabToActivate) {
-
-        } else {
-
-        }
-	}
+	// respond to tab clicks
+	// change panel display and active tabs
+  for (var i = 0; i < tabLinks.length; i++) {
+    if (tabLinks[i] == tabToActivate) {
+  // if tabLink object 'i' is equal to tabToActivate (tab that was clicked on)
+  // if it's the tab to activate, change its class
+        tabLinks[i].classList.add("active");
+        // for tab that matches, add to its class 'active'
+        tabPanels[i].style.display = "block";
+        // for tab panels which match, change display to 'block'
+        // Using CSS to: display 'none' will hide it; display 'block' will show it
+        // aka not 'active' will hide it, 'active' will display it
+    } else {
+        // remove active class on the link
+        tabLinks[i].classList.remove("active");
+        // if user clicks on 3rd tab, then clicks on 1st tab, this removes 'active' from tab 3.
+        // hide the panel
+        tabPanels[i].style.display = "none";
+        // for any inactive tabLinks or tabPanels, we're removing the 'active' class and display.
+          }
+  }
 }
 
 </script>
