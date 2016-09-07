@@ -1,0 +1,56 @@
+./github training screenshots/Screen Shot 2016-04-13 at 6.27.53 PM.png
+./github training screenshots/Screen Shot 2016-04-16 at 1.13.50 PM.png
+./github training screenshots/Screen Shot 2016-04-16 at 1.14.04 PM.png
+./github training screenshots/Screen Shot 2016-04-16 at 1.24.38 PM.png
+./github training screenshots/Screen Shot 2016-04-16 at 1.25.37 PM.png
+./github training screenshots/Screen Shot 2016-04-16 at 1.50.51 PM.png
+./github training screenshots/Screen Shot 2016-04-16 at 12.58.52 PM.png
+./github training screenshots/Screen Shot 2016-04-16 at 2.19.52 PM.png
+./github training screenshots/Screen Shot 2016-04-16 at 2.19.59 PM.png
+./github training screenshots/Screen Shot 2016-04-16 at 2.22.55 PM.png
+./Sad Day Screenshot 2015-12-02 at 10.02.12 PM.png
+./Screen Shot 2016-03-02 at 2.18.24 AM.png
+./Screen Shot 2016-04-01 at 3.09.24 PM.png
+./Screen Shot 2016-04-11 at 9.47.25 AM.png
+./Screen Shot 2016-04-18 at 11.13.36 PM.png
+./Screen Shot 2016-04-18 at 11.23.56 PM.png
+./Screen Shot 2016-04-22 at 8.33.41 PM.png
+./Screen Shot 2016-04-27 at 5.20.39 PM.png
+./Screen Shot 2016-04-27 at 9.45.00 AM.png
+./Screen Shot 2016-04-29 at 4.14.08 PM.png
+./Screen Shot 2016-05-19 at 8.23.46 AM.png
+./Screen Shot 2016-05-19 at 8.30.59 AM.png
+./Screen Shot 2016-05-20 at 1.26.14 AM.png
+./Screen Shot 2016-05-20 at 10.20.23 PM.png
+./Screen Shot 2016-05-24 at 12.45.22 PM.png
+./Screen Shot 2016-05-25 at 11.50.49 PM.png
+./Screen Shot 2016-05-25 at 11.52.23 PM.png
+./Screen Shot 2016-06-06 at 7.14.16 PM.png
+./Screen Shot 2016-06-07 at 4.14.02 PM.png
+./Screen Shot 2016-06-14 at 5.22.22 PM.png
+./Screen Shot 2016-06-14 at 5.33.30 PM.png
+./Screen Shot 2016-06-14 at 5.41.00 PM.png
+./Screen Shot 2016-06-14 at 5.41.33 PM.png
+./Screen Shot 2016-06-14 at 6.05.47 PM.png
+./Screen Shot 2016-06-14 at 9.08.45 AM.png
+./Screen Shot 2016-06-15 at 2.38.15 PM.png
+./Screen Shot 2016-06-15 at 7.09.48 PM.png
+./Screen Shot 2016-06-15 at 7.10.07 PM.png
+./viveStarterV2/Assets/Standard Assets/Effects/ImageEffects/Textures/color correction ramp.png
+./viveStarterV2/Assets/Standard Assets/Effects/ImageEffects/Textures/ContrastEnhanced3D16.png
+./viveStarterV2/Assets/Standard Assets/Effects/ImageEffects/Textures/grayscale ramp.png
+./viveStarterV2/Assets/Standard Assets/Effects/ImageEffects/Textures/MotionBlurJitter.png
+./viveStarterV2/Assets/Standard Assets/Effects/ImageEffects/Textures/Neutral3D16.png
+./viveStarterV2/Assets/Standard Assets/Effects/ImageEffects/Textures/Noise.png
+./viveStarterV2/Assets/Standard Assets/Effects/ImageEffects/Textures/NoiseAndGrain.png
+./viveStarterV2/Assets/Standard Assets/Effects/ImageEffects/Textures/NoiseEffectGrain.png
+./viveStarterV2/Assets/Standard Assets/Effects/ImageEffects/Textures/NoiseEffectScratch.png
+./viveStarterV2/Assets/Standard Assets/Effects/ImageEffects/Textures/RandomVectors.png
+./viveStarterV2/Assets/Standard Assets/Effects/ImageEffects/Textures/VignetteMask.png
+./viveStarterV2/Assets/Standard Assets/Effects/TessellationShaders/Textures/CliffHeight.png
+./viveStarterV2/Assets/Standard Assets/Effects/TessellationShaders/Textures/CliffNormals.png
+./viveStarterV2/Assets/Standard Assets/Effects/ToonShading/Textures/UtilToonGradient.png
+./viveStarterV2/Assets/SteamVR/Textures/arrow.png
+./viveStarterV2/Assets/SteamVR/Textures/background.png
+./viveStarterV2/Assets/SteamVR/Textures/logo.png
+./viveStarterV2/Assets/SteamVR/Textures/workshop.png
