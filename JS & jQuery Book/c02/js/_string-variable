@@ -1,0 +1,15 @@
+// Create variables to hold the name and note
+var username;
+var message;
+
+//Assign values to these variables
+username = 'Molly';
+mesage = 'See our upcoming range';
+
+// Get the element with an id of name.
+
+
+// Replace the content of this element.
+
+
+// Get the element with an id of note.
