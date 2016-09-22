@@ -8,7 +8,9 @@ var welcome = greeting + name + message;
 // Create variables to hold details about the sign
 var sign = 'Montague House';
 var tiles = sign.length;
+// Get number of sign letters by counting the length of the string 'sign'
 var subTotal = tiles * 5;
+// Multiply number of tiles by cost per tile
 var shipping = 7;
 var grandTotal = subTotal + shipping;
 
@@ -16,6 +18,7 @@ var grandTotal = subTotal + shipping;
 var el = document.getElementById('greeting');
 // Replace the content of that element with the personalized welcome message
 el.textContent = welcome;
+// Here we're replacing the HTML elements with JS variables
 
 // Get the element that has an id of userSign then update its contents
 var elSign = document.getElementById('userSign');
@@ -24,8 +27,10 @@ elSign.textContent = sign;
 // Get the element that has an id of tiles then update its contents
 var elTiles = document.getElementById('tiles');
 elTiles.textContent = tiles;
+// Within variable elTiles, change content
 
 // Get the element that has an id of subTotal then update its contents
+// When changing content on variable, add '$' to results
 var elSubTotal = document.getElementById('subTotal');
 elSubTotal.textContent = '$' + subTotal;
 

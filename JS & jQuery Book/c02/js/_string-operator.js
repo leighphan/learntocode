@@ -5,7 +5,8 @@ var greeting = 'Howdy ';
 var name = 'Molly';
 
 /* Create the welcome message by concatenating the strings in the two variables */
-var welcomeMessage = greeting + name + '!';
+var welcome = greeting + name + '!';
+
 
 // Get the element that has an id of greeting
 var el = document.getElementById('greeting');
